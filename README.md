@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
-<a href="https://github.com/DaiAlaa?tab=repositories">
+<!-- <a href="https://github.com/DaiAlaa?tab=repositories">
   <img src="https://badges.pufler.dev/repos/DaiAlaa" style="text-decoration: none;" alt="daialaa"/> 
-</a>
+</a> -->
 <img src="https://komarev.com/ghpvc/?username=daialaa&label=Profile%20views&color=0e75b6&style=flat" alt="daialaa" />
 </div>
 <br/>
