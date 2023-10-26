@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
-# Hey there <img src="https://media.giphy.com/media/d7TAImNVzdj8R7aSHv/giphy.gif" width="50" draggable="false" >, I'm [Dai!](https://www.linkedin.com/in/dai-alaa-59a30a1b5/) 
+# Hey there, I'm [Dai!](https://www.linkedin.com/in/dai-alaa-59a30a1b5/) 
+<!-- <img src="https://media.giphy.com/media/d7TAImNVzdj8R7aSHv/giphy.gif" width="50" draggable="false" > -->
 <div align="center">
   <a href="https://www.linkedin.com/in/dai-alaa-59a30a1b5/"><img align="left" alt="Dai's LinkdeIN" width="30px" 
     src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
@@ -37,7 +38,8 @@ Here are some ideas to get you started:
 <br/>
 
 # About me
-- 🎓 Computer Engineering Student  <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+- 🎓 Graduated from <a href="http://eng.cu.edu.eg/ar/">@Faculty of Engineering Cairo University</a>
+- 👩‍💻 Software Engineer/Full-stack developer @EJADA
 - 💻 I am interested in Front-End development, Computer vision and data science
 - ⭐ I am passionate about increasing my skills and gain more experience
 - 😊 Ask me about anything, I will be happy to help
